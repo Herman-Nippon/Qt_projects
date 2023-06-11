@@ -1,0 +1,25 @@
+# Compiled Object files, Static and Dynamic libs (Qt)
+*.o
+*.a
+*.lib
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Compiled Meta-Object files
+*.moc
+
+# Compiled Resource files
+*.rcc
+
+# Compiled UI files
+*.ui
+
+# Qt Creator files
+*.user
+*.pro.user
+*.pro.shared
+*.pro.user.*
+*.qmlproject.user
+*.qmlproject.user.*
